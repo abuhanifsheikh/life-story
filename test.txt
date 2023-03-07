@@ -2,3 +2,4 @@ I born in 1981 June 12
 I have done my ssc in 1997
 I have completed my HSC in 2000
 I have comoleted my BSc in 2003
+logo alignment is centred
